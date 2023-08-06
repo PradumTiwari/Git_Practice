@@ -54,3 +54,11 @@ Note: The name of the remote connection is always used to establish communicatio
 
 
 My Working and Staging Area Should be clean in order to pull the origin
+
+
+### Recommended practice to do
+- make changes
+-git add <file>
+-git commit
+-git pull
+-git push
