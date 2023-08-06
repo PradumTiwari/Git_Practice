@@ -27,12 +27,6 @@ changes and creates a version out of it.
 
 8. 'git commit → registers staging changes to a commit
 
-
-
-
-
-
-
 9. 'git log → list downs all the commits of the repository
 
 12. Diff between git rm and git restore
