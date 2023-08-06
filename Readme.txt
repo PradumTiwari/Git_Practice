@@ -30,4 +30,9 @@ changes and creates a version out of it.
 
 
 
+
 9. 'git log → list downs all the commits of the repository
+
+12. Diff between git rm and git restore
+ans: if you want to move the whole file back to the untracked state, then we do git rm, otherwise if we
+just want the changes to be moved in working area or staging area then we git restore. 
