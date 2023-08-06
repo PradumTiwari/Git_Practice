@@ -62,3 +62,4 @@ My Working and Staging Area Should be clean in order to pull the origin
 -git commit
 -git pull
 -git push
+So try to do Merge Conflict by Remote repo
