@@ -54,3 +54,9 @@ remote repo and give a name to it
 18. 'git remote rm <name of remote>`: this command deletes a remote connection
 19. 'git remote rename <olanme> <newname>`: this command remanes the remote connection
 Note: The name of the remote connection is always used to establish communication between the repos.
+
+
+
+
+
+My Working and Staging Area Should be clean in order to pull the origin
