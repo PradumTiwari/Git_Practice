@@ -63,3 +63,10 @@ My Working and Staging Area Should be clean in order to pull the origin
 -git pull
 -git push
 So here we will try to push our code in case of merge conflict
+
+
+
+
+
+
+<!-- BRANCHES -->
