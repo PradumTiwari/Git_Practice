@@ -74,3 +74,8 @@ So here we will try to push our code in case of merge conflict
 git checkout -b <Branch Name>
 
 git will  Never Know how Many Branches are there until unless a commit from that branches will be committed
+
+
+Complete Wrong Way Of Pushing The code
+
+Suppose You have changes in the remote repository which is not Included in my Local repo and Suppose we Have Created A new Feature Branch and Added an feature in the feature Branch so we will Not do Like Merge Feature Branch to the master branch and then pull the changes from the remote repo and then push it to the remote repo
