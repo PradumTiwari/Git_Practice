@@ -89,3 +89,6 @@ First Pull all the code into the local master Branch
 and then push the feature branch direclty into the its remote and in the remote we will se the pull request 
 
 {Pull request:- It is a way of requesting a branch i.e most of the time master to review the feature or the code i want to add to your main master code} and then merge it 
+
+
+It is Loc=gical that why Merging your Feature Branch to the Master is Bad Because No One will have see the changes so it Is bad Conventional to the Push the whole master and the mainter will never get to know about the changes and it is a Bad Practice
