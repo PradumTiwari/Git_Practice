@@ -92,3 +92,20 @@ and then push the feature branch direclty into the its remote and in the remote 
 
 
 It is Loc=gical that why Merging your Feature Branch to the Master is Bad Because No One will have see the changes so it Is bad Conventional to the Push the whole master and the mainter will never get to know about the changes and it is a Bad Practice
+
+
+
+Now WE ARE GOING TO DICUSS HOW WE ARE GOING TO CONTRIBUTE TO OPEN SOURCE PROJECTS AS WE ARE NOT THEIR COLLABORATORS SO THEY DON'T TRUST US WHICH IS VALID ALSO BECAUSE THEIR CODE IS VALUABLE TO THEM 
+
+SO OUR AIM IS HOW CAN WE BECOME ||CONTRIBUTOR || 
+
+1.Fork the repo which you want to contribute to
+
+2.Clone that repo or bring it to the local repo and as it is a repo means it is already .git folder in it or initialized
+
+3.Make the changes or add the feature and stage it commit it and push it to your Remote forked Master or to the branch in which you want to push in remote repo
+
+
+4.Create A Pull request to the orignal owner of the repository
+
+5.You can search Your Pr by going into pull request and is:pr is:oopen/closed author:authorName
