@@ -79,3 +79,13 @@ git will  Never Know how Many Branches are there until unless a commit from that
 Complete Wrong Way Of Pushing The code
 
 Suppose You have changes in the remote repository which is not Included in my Local repo and Suppose we Have Created A new Feature Branch and Added an feature in the feature Branch so we will Not do Like Merge Feature Branch to the master branch and then pull the changes from the remote repo and then push it to the remote repo
+
+
+
+SO Best Way of Merging New Feature is:
+
+
+First Pull all the code into the local master Branch 
+and then push the feature branch direclty into the its remote and in the remote we will se the pull request 
+
+{Pull request:- It is a way of requesting a branch i.e most of the time master to review the feature or the code i want to add to your main master code} and then merge it 
