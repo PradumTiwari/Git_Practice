@@ -70,3 +70,7 @@ So here we will try to push our code in case of merge conflict
 
 
 <!-- BRANCHES -->
+
+git checkout -b <Branch Name>
+
+git will  Never Know how Many Branches are there until unless a commit from that branches will be committed
